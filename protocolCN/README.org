@@ -1,1 +1,10 @@
 #+TITLE: Zcash 协议详解
+#+AUTHOR: Daira Hopwood
+#+AUTHOR: Sean Bowe, Taylor Hornby, Nathan Wilcox
+<2017-07-01 Sat>
+
+#+BEGIN_Abstract:
+
+Zcash是/分布式匿名支付/方案Zerocash的一种实现。Zcash在Zerocash的基础上修改了一些术语，功能，并且改进了整个支付体系的性能。
+
+#+END_Abstract
