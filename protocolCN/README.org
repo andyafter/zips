@@ -7,6 +7,6 @@
 ** Abstract
 
 Zcash是/分布式匿名支付/方案Zerocash的一种实现。Zcash在Zerocash的基础上修改了一些术语，功能，并且改进了整个支付体系的性能。
-
+#+OPTIONS: tex:dvipng
 If $a^2=b$ and \( b=2 \), then the solution must be
      either $$ a=+\sqrt{2} $$ or \[ a=-\sqrt{2} \].
