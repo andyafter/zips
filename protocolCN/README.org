@@ -1,6 +1,7 @@
 #+TITLE: Zcash 协议详解
 #+AUTHOR: Daira Hopwood
 #+AUTHOR: Sean Bowe, Taylor Hornby, Nathan Wilcox
+#+OPTIONS: tex:dvipng
 <2017-07-01 Sat>
 
 ** Abstract
