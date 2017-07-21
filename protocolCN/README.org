@@ -1,0 +1,3 @@
+#+TITLE: Zcash Protocol Chinese
+
+This is for the Chinese version of Zcash protocol. The project should be compiled with XeLaTex.

@@ -6,8 +6,12 @@
 *.out
 *.toc
 *.synctex.gz
+*.run.xml
 
 # Temporary files
 .emacs.desktop
 .~lock.*
+
+# Editor files
+/protocolCN/auto*
 
